@@ -5,7 +5,7 @@
 排名不分先后（满分10分）  
 |公司|打分|薪酬待遇|技术水平|
 |:----|:----|:----|:----|
-|[乐歌股份](/bboysoul/interview/src/branch/master/乐歌股份)|5分|10-15k 16薪|5分|
+|[乐歌股份](/bboysoul/interview/src/branch/master/乐歌股份)|5分|15-18k 16薪|5分|
 
 ## 运维知识体系
 ……
